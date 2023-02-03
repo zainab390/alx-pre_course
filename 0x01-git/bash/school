@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash echo "ALX School"
 echo "school"
-#!/bin/bash
+#!/bin/bash echo "the school is open"
 echo "School"
